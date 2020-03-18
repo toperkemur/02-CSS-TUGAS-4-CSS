@@ -1,0 +1,23 @@
+
+
+[placeholder="Nama Depan"],
+[placeholder="Nama Belakang"],
+[placeholder="Tempat Lahir"],
+[placeholder="Tanggal Lahir (YYYY-MM-DD)"],
+[placeholder="Cita-Cita"]
+{
+  font-size: 16px;
+  font-weight: 500;
+  color: darkgray;
+}
+
+input{
+  height: 16px;
+  width: 800px;
+  border:1px solid black;
+}
+
+button {
+  font-size: 30px!important;
+  color: #B37F05;
+}
